@@ -6,8 +6,8 @@ public class OrdenamientoDecimalesQuickSort {
 		//https://programmerclick.com/article/2632340784/
 		
 		// QuickSort en relacion a BubbleSort es más rápida, porque cada 
-		//intercambio se salta. en cada intercambio,
-		//no podrá intercambiar entre números adyacentes al mismo tiempo en relacion
+		//intercambio se salta. En cada intercambio, no podrá intercambiar 
+		//entre números adyacentes al mismo tiempo en relacion
 		//a la clasificación de burbujas, y la distancia de intercambio es mucho mayor.
 		//Por lo tanto, el número total de comparaciones e intercambios se reduce 
 		//y la velocidad aumenta naturalmente.
